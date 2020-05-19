@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+the truth is bitter
 Use the left arrow to go back!
 add now!
